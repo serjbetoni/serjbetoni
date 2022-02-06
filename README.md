@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Sergei</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am learning programming 🇷🇺</h3>  
-
+### Hi there 👋, my name is Sergei
+#### I am an engineer and i learn programming  
+I made this account to show my solutions while studying  
+Skills: Java/ SQL / GIT  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serjbetoni&layout=compact)](https://github.com/serjbetoni/github-readme-stats)  
 [![codewars](https://www.codewars.com/users/serjbetoni/badges/large)](https://www.codewars.com/users/serjbetoni)   
 
