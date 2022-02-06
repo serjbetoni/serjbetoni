@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Sergei</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am learning programming 🇷🇺</h3>
+<h3 align="center">I am learning programming 🇷🇺</h3>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serjbetoni&layout=compact)](https://github.com/serjbetoni/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serjbetoni&layout=compact)](https://github.com/serjbetoni/github-readme-stats)  
 [![codewars](https://www.codewars.com/users/serjbetoni/badges/large)](https://www.codewars.com/users/serjbetoni)   
 
 <!--
