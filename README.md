@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Sergei
-#### I am an engineer and i learn programming  
+#### I am an engineer and I learn programming  
 I made this account to show my solutions while studying  
 I have a technical education and I completed courses Java  
-Skills: Java / Maven / SQL / GIT / Selenium / Selenide / JUnit / Allure  
+Skills: Java / Maven / SQL / GIT / Selenium / Selenide / REST Assured / JUnit / TestNG / Allure  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serjbetoni&layout=compact)](https://github.com/serjbetoni/github-readme-stats)  
 [![codewars](https://www.codewars.com/users/serjbetoni/badges/large)](https://www.codewars.com/users/serjbetoni)   
 
